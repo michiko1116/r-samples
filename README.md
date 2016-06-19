@@ -5,7 +5,7 @@ Rのサンプル集、練習なので間違いもあります。
 デスクトップでゼミの演習をおこなっています。
 
 ## サンプルファイル
-参考:[ドットインストール](http://dotinstall.com/lessons/basic_r)
+参考:[ドットインストール](http://dotinstall.com/lessons/basic_r)  
      [SlideShare「はじめてのR」](http://www.slideshare.net/m884/japan-r-15432969)
 - [変数とデータ型](sample/sample01.R)
 - [数値と文字列](sample/sample02.R)
