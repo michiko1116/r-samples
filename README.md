@@ -10,3 +10,4 @@ Rのサンプル集、練習なので間違いもあります。
 - [数値と文字列](sample/sample02.R)
 - [ベクトル](sample/sample03.R)
 - [ベクトルの演算](sample/sample04.R)
+- [印紙ベクトル](sample/sample05.R)
