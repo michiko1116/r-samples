@@ -15,3 +15,4 @@ Rのサンプル集、練習なので間違いもあります。
 - [因子ベクトル](sample/sample05.R)
 - [行列](sample/sample06.R)
 - [行列の編集](sample/sample07.R)
+- [リスト](sample/sample08.R)
